@@ -15,7 +15,6 @@ product/app/SpeechServicesByGoogle/SpeechServicesByGoogle.apk;PRESIGNED
 product/app/talkback/talkback.apk;PRESIGNED
 product/app/TrichromeLibrary64/TrichromeLibrary64.apk;PRESIGNED
 product/app/WebViewGoogle64/WebViewGoogle64.apk;OVERRIDES=webview;PRESIGNED
-product/app/YouTube/YouTube.apk;PRESIGNED
 product/etc/default-permissions/default-permissions-google.xml
 product/etc/permissions/com.google.android.dialer.support.xml
 product/etc/permissions/privapp-permissions-google-comms-suite.xml

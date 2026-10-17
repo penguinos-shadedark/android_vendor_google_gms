@@ -113,7 +113,6 @@ PRODUCT_PACKAGES += \
     SpeechServicesByGoogle \
     TrichromeLibrary64 \
     WebViewGoogle64 \
-    YouTube \
     talkback \
     AndroidAutoStub \
     ConfigUpdater \

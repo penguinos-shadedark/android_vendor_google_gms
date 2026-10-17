@@ -17,7 +17,6 @@ blob_fixups: blob_fixups_user_type = {
         'product/app/Photos/Photos.apk',
         'product/app/TrichromeLibrary64/TrichromeLibrary64.apk',
         'product/app/WebViewGoogle64/WebViewGoogle64.apk',
-        'product/app/YouTube/YouTube.apk',
         'product/priv-app/GmsCore/GmsCore.apk',
         'product/priv-app/Messages/Messages.apk',
         'product/priv-app/Phonesky/Phonesky.apk',
