@@ -9,7 +9,6 @@
     <allow-in-data-usage-save package="com.google.android.gms" />
     <allow-unthrottled-location package="com.google.android.gms" />
     <allow-ignore-location-settings package="com.google.android.gms" attributionTag="com.google.android.gms.thunderbird" />
-    <allow-ignore-location-settings package="com.google.android.dialer" attributionTag="*" />
 
     <!-- Allow App Streaming to run in background while in power save mode. -->
     <allow-in-power-save package="com.google.ambient.streaming" />

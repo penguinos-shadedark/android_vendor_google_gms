@@ -245,7 +245,6 @@
 
     <!-- An array of packages that can make sound on the ringer stream in priority-only DND mode -->
     <string-array name="config_priorityOnlyDndExemptPackages" translatable="false">
-        <item>com.google.android.dialer</item>
         <item>com.android.server.telecom</item>
         <item>android</item>
         <item>com.android.systemui</item>

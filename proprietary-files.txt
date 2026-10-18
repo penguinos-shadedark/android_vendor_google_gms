@@ -16,8 +16,6 @@ product/app/talkback/talkback.apk;PRESIGNED
 product/app/TrichromeLibrary64/TrichromeLibrary64.apk;PRESIGNED
 product/app/WebViewGoogle64/WebViewGoogle64.apk;OVERRIDES=webview;PRESIGNED
 product/etc/default-permissions/default-permissions-google.xml
-product/etc/permissions/com.google.android.dialer.support.xml
-product/etc/permissions/privapp-permissions-google-comms-suite.xml
 product/etc/permissions/privapp-permissions-google-product.xml
 product/etc/permissions/split-permissions-google.xml
 product/etc/preferred-apps/google.xml
@@ -32,14 +30,12 @@ product/etc/sysconfig/personal_safety.xml
 product/etc/sysconfig/sysconfig_gemini.xml
 product/etc/sysconfig/turbo.xml
 product/etc/sysconfig/wellbeing.xml
-product/framework/com.google.android.dialer.support.jar
 product/priv-app/AndroidAutoStub/AndroidAutoStub.apk;PRESIGNED
 product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
 product/priv-app/CrossDeviceServices/CrossDeviceServices.apk;PRESIGNED
 product/priv-app/FamilyLinkParentalControls/FamilyLinkParentalControls.apk;PRESIGNED
 product/priv-app/FilesGoogle/FilesGoogle.apk;PRESIGNED
 product/priv-app/GmsCore/m/independent/AndroidPlatformServices/AndroidPlatformServices.apk;PRESIGNED
-product/priv-app/GoogleDialer/GoogleDialer.apk;OVERRIDES=Dialer;PRESIGNED
 product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk;PRESIGNED
 product/priv-app/GoogleRestore/GoogleRestore.apk;PRESIGNED
 product/priv-app/GWP/GWP.apk;PRESIGNED
